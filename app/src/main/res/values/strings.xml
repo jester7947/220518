@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="aisatsu">Welcome to CTC System</string>
+
+    <string name ="news_1">本日のニュース</string>
+
+</resources>
